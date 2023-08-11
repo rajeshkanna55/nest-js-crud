@@ -1,0 +1,51 @@
+.option{
+    list-style: none;
+    display: inline-block;
+    margin: 15px;
+    font-family: "Gill Sans", sans-serif;
+     font-size: 15px;
+     cursor: pointer;
+}
+.navbar
+{  
+    background-color: rgb(255,200,3);
+    z-index: 1;
+   position: fixed;
+    width: 100%;
+    height: 90px;
+}
+.optcont
+{
+   margin: 5px;
+}
+.signup
+{
+    margin: 20px;
+    background-color: white;
+    padding : 10px 15px;
+    border-radius: 10px;
+}
+.optbut
+{
+    text-decoration: none;
+    color: black;
+    padding: 3px; 
+}
+
+.optcomp
+{
+    display : flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.logocomp
+{
+    display: flex;
+    justify-content: space-between;
+}
+.sitename
+{
+    display: flex; 
+}
+
+

@@ -1,0 +1,55 @@
+.about{
+    width: 100%;
+    height: auto;
+    position: relative;
+    top : 90px;
+}
+.abtcont
+{
+    width: 100%; 
+}
+.abtmain
+{
+    width:100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.abtpara
+{
+    font-size: 10vh; 
+    font-family: Darker Grotesque;
+    font-style: normal;
+}
+.abtadpara
+{
+    font-family: DM Sans;
+    font-style: normal;
+}
+.abtmaincont
+{  
+    width: 80%;     
+    
+}
+.imagcont
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+.groupimg
+{
+  width:100%;
+  height: 100vh;
+}
+.abtbtn
+{
+    color: white;
+    background-color: black;
+    padding: 2vh 2vh;
+    border-radius: 15px;
+    border: none;
+}
